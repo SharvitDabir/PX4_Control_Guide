@@ -1,4 +1,4 @@
-# PX4_Control_Guide
+# PX4_Autopilot_Firmware_Guide
 This documentation was started as part of CERLAB-Control team at Carnegie Mellon University, for the educational purpose of understanding and documenting the PX4 multicopter control architecture. This documentation (for "PX4 Stable Release v1.12.3") is a work-in-progress and is expected to be completed by May 2022. All rights reserved by PX4 Development Team. 
 # Disclaimer as seen on PX4-Autopilot github repository:
 /****************************************************************************

@@ -34,8 +34,14 @@ This documentation was started as part of CERLAB-Control team at Carnegie Mellon
  *
  ****************************************************************************/
  
- # ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
  <img width="1457" alt="for_github2" src="https://user-images.githubusercontent.com/73812796/158051219-385dc9b2-8f55-42d9-83af-f53f0362f4b6.PNG">
- # ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
  <img width="914" alt="for_github" src="https://user-images.githubusercontent.com/73812796/158051174-1acb7b42-85d8-4aa4-b245-7b662b0c5d72.PNG">
+ 
+# Some illustrations related to Thrust-Update:
+ <img width="679" alt="for_git" src="https://user-images.githubusercontent.com/73812796/158295317-54b58bd6-9370-4e91-83b2-5c096558a325.PNG">
+
+# Some illustrations related to Attitude-Controller:
+<img width="1009" alt="for_git2" src="https://user-images.githubusercontent.com/73812796/158295356-fa9d119c-9cd2-4a96-9274-1eb267f2d00b.PNG">
 

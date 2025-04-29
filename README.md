@@ -35,5 +35,3 @@ This documentation was started as part of CERLAB-Control team at Carnegie Mellon
  ****************************************************************************/
  
 ![PX4_MC_Architecture](https://github.com/user-attachments/assets/8f2d38c6-ba3f-4e58-809e-da4585c64b25)
-
-![PX4_MC_Control_Architecture_TrajectorySetpoints](https://github.com/user-attachments/assets/e3740bc9-66e4-446b-b4d3-d805793bbd04)

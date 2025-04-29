@@ -34,16 +34,6 @@ This documentation was started as part of CERLAB-Control team at Carnegie Mellon
  *
  ****************************************************************************/
  
-# Some illustrations from the Document:
-<img width="1457" alt="for_github2" src="https://user-images.githubusercontent.com/73812796/158051219-385dc9b2-8f55-42d9-83af-f53f0362f4b6.PNG">
+![PX4_MC_Architecture](https://github.com/user-attachments/assets/8f2d38c6-ba3f-4e58-809e-da4585c64b25)
 
-<img width="914" alt="for_github" src="https://user-images.githubusercontent.com/73812796/158051174-1acb7b42-85d8-4aa4-b245-7b662b0c5d72.PNG">
- 
-# Some illustrations related to Thrust-Update:
- <img width="679" alt="for_git" src="https://user-images.githubusercontent.com/73812796/158295317-54b58bd6-9370-4e91-83b2-5c096558a325.PNG">
-
-# Some illustrations related to Attitude-Controller:
-<img width="1009" alt="for_git2" src="https://user-images.githubusercontent.com/73812796/158295356-fa9d119c-9cd2-4a96-9274-1eb267f2d00b.PNG">
-
-TODO: PX4 v1.15.0
-
+![PX4_MC_Control_Architecture_TrajectorySetpoints](https://github.com/user-attachments/assets/e3740bc9-66e4-446b-b4d3-d805793bbd04)

@@ -33,5 +33,11 @@ This documentation was started as part of CERLAB-Control team at Carnegie Mellon
  * POSSIBILITY OF SUCH DAMAGE.
  *
  ****************************************************************************/
- 
+
+## PX4 MultiCopter Control Architecture 
+### Only POSITION and YAW setpoints sent from companion computer through the TrajectorySetpoints topic
 ![PX4_MC_Architecture](https://github.com/user-attachments/assets/8f2d38c6-ba3f-4e58-809e-da4585c64b25)
+
+### POSITION, VELOCITY, ACCELERATION, YAW and YAWSPEED setpoints sent from companion computer through the TrajectorySetpoints topic
+![PX4_MC_Control_Architecture_Trajectory_Setpoints](https://github.com/user-attachments/assets/7e61abd1-268f-4e1b-83f3-b22a74af0fc1)
+
